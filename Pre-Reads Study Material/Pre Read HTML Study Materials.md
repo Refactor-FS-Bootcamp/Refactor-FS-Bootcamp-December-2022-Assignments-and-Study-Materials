@@ -1,4 +1,4 @@
-﻿![](Aspose.Words.baa0fafb-9c67-4568-aa56-1b55aa2cbe2d.001.png)
+﻿![](public/Aspose.Words.baa0fafb-9c67-4568-aa56-1b55aa2cbe2d.001.png)
 
 **MODULE 1: Pre Read HTML Study Materials**
 

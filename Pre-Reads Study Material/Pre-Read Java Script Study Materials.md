@@ -1,4 +1,4 @@
-﻿![](Aspose.Words.abf89329-7495-4606-b412-c7c1973863cc.001.png)
+﻿![](public/Aspose.Words.abf89329-7495-4606-b412-c7c1973863cc.001.png)
 
 **Module 3: Pre-Read Java Script Study Materials**
 

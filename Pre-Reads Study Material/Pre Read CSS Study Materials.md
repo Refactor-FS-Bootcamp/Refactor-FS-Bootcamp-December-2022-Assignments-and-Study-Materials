@@ -1,4 +1,4 @@
-﻿![](Aspose.Words.34db2a91-b8b5-4703-bc03-347875716a16.001.png)
+﻿![](public/Aspose.Words.34db2a91-b8b5-4703-bc03-347875716a16.001.png)
 
 **MODULE 2: Pre Read CSS Study Materials**
 
