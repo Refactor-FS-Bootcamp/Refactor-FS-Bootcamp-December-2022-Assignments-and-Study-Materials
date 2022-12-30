@@ -1,0 +1,16 @@
+/* id class tag */
+.container{
+    height: 200px;
+    width:  50%;
+    border: 2px solid black;
+    margin: auto;
+    text-align: center;
+    background-color: yellow;
+}
+
+#head{
+    background-color: aqua;
+}
+h1{
+    color: rgb(55, 0, 255);
+}
