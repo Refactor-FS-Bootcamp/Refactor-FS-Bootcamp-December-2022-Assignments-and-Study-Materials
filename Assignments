@@ -22,3 +22,7 @@ Assignment 6
 -------------
 JavaScript Milestone Project. Refer -
 https://docs.google.com/document/d/11zMK2DYo034NNjO91AVNNt09gH4L_Zdp/edit?usp=sharing&ouid=106020900133971725356&rtpof=true&sd=true
+
+Assignment 7
+------
+Hit the Fake Store API Endpoint - https://fakestoreapi.com/products and show the product with image, title and price. Use Hook based ReactJS
