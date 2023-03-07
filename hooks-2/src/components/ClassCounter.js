@@ -13,19 +13,20 @@ class ClassCounter extends Component {
         document.title = `Count - ${this.state.count}`
     }
 
-    componentDidUpdate(prevProps, prevState) {
+    componentDidUpdate(prevProps, prevState){
         if(prevState.count !== this.state.count){
-            console.log('Updating document title');
-            document.title = `Count - ${this.state.count}`;
+            console.log('Updating document title')
+            document.title = `Count - ${this.state.count}`
         }
     }
 
     render() {
         return (
-            <>
-                <input type="text" value={this.state.name} onChange={e => this.setState({ name: e.target.value})} />
-                <button onClick={() => this.setState({ count: this.state.count + 1 })}>Count - {this.state.count}</button>
-            </>
+            <div>
+                <h1>Count - {this.state.count}</h1>
+                <input type="text" value={this.state.name} onChange={e => this.setState({ name: e.target.value })} />
+                <button onClick={() => this.setState({ count: this.state.count + 1 })}>Increment</button>
+            </div>
         )
     }
 }

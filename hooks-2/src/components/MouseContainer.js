@@ -1,8 +1,8 @@
 import React, { useState } from 'react'
-import HookMouse from './HookMouse'
+import HookMouse from './HookMouse';
 
 const MouseContainer = () => {
-    const [display, setDisplay] = useState(true)
+    const [display, setDisplay] = useState(true);
 
     return (
         <div>
